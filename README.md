@@ -9,7 +9,7 @@
 
 ## neat features
 
-* shows README.txt content under header
+* shows fancyindex_footer under header, for showing readmes and similar
 
 ## example config
 
