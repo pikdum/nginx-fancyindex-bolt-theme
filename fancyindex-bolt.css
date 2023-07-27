@@ -44,6 +44,8 @@ body {
 
 h1 {
   margin-bottom: 1rem !important;
+  white-space: break-spaces;
+  word-break: break-all;
 }
 
 /* hide nginx 404 when no readme/footer file */
