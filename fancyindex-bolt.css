@@ -36,7 +36,7 @@ a:hover {
 
 /* custom layout styles */
 body {
-  max-width: 80rem;
+  max-width: 60rem;
   margin: 0 auto !important;
   white-space: pre;
   padding: 1rem;
