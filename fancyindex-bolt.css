@@ -46,7 +46,6 @@ h1 {
   margin-bottom: 1rem !important;
 }
 
-
 /* hide nginx 404 when no readme/footer file */
 body > center,
 body > hr {
