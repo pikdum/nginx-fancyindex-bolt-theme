@@ -4,12 +4,12 @@
 
 ## preview
 
-![image](https://github.com/pikdum/nginx-fancyindex-bolt-theme/assets/5122800/df482675-6bbd-4051-ad18-5a25cb3cdafd)
+![Screenshot 2023-07-27 at 05-32-32 Index of _Example_](https://github.com/pikdum/nginx-fancyindex-bolt-theme/assets/5122800/96238631-b619-4ca2-b456-b394a6316961)
 
 
 ## neat features
 
-* shows fancyindex_footer under header, for showing readmes and similar
+* shows fancyindex_footer under header, for showing readmes or similar
 
 ## example config
 
