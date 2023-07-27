@@ -1,22 +1,19 @@
-/* Resetting styles for body and html */
+/* reset fancyindex default styles */
 body,
 html {
   background: none;
   font-family: initial;
 }
 
-/* Resetting styles for even rows */
 tr:nth-child(even) {
   background: none;
 }
 
-/* Resetting styles for th and td */
 th,
 td {
   padding: initial;
 }
 
-/* Resetting styles for th */
 th {
   text-align: initial;
   font-weight: normal;
@@ -24,13 +21,11 @@ th {
   border-bottom: none;
 }
 
-/* Resetting styles for #list */
 #list {
   border: none;
   width: auto;
 }
 
-/* Resetting styles for anchor tags and hover */
 a {
   color: initial;
 }
@@ -39,26 +34,26 @@ a:hover {
   color: initial;
 }
 
-/* custom styles */
+/* custom layout styles */
 body {
-  max-width: 80rem !important;
-  margin: 1rem auto !important;
-  white-space: pre !important;
+  max-width: 80rem;
+  margin: 0 auto !important;
+  white-space: pre;
+  padding: 1rem;
 }
 
 h1 {
   margin-bottom: 1rem !important;
 }
 
-table {
-  width: 100% !important;
-}
 
+/* hide nginx 404 when no readme/footer file */
 body > center,
 body > hr {
   display: none;
 }
 
+/* put readme under header, above table */
 body {
   display: grid;
   grid-template-areas: "h1" "readme" "table";
